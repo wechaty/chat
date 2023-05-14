@@ -4,6 +4,11 @@ Friday BOT empowered by GPT-4 with maximum token length 32K, grounded with Wecha
 
 ## Resources
 
+### ChatGPT UI
+
+- Angular: https://github.com/yagizhanNY/openai-chatgpt3-clone
+- React: https://github.com/mckaywrigley/chatbot-ui
+
 ### Prompt Injection
 
 - [Prompt injection explained, with video, slides, and a transcript, Simon Willison, 2nd May 2023](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
